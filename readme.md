@@ -4,7 +4,7 @@
 [https://muporash.github.io/meta_nav/]
 (https://muporash.github.io/meta_nav/)
 
-## Requirements
+## Dependencies
 
 - fontawesome.io
 - jQuery 1.8.2
