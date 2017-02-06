@@ -2,7 +2,7 @@
 
 ## Demo
 [https://muporash.github.io/meta_nav/]
-(https://www.npmjs.com/package/apileague)
+(https://muporash.github.io/meta_nav/)
 
 ## Requirements
 
@@ -29,7 +29,7 @@
 <link href="assets/css/meta_nav_full.css" rel="stylesheet">
 ```
 
-### Dans la balise `<body></body>` en bas de page 
+### Dans la balise `<body></body>` en bas de page
 
 ```
 <script src="assets/js/jquery.js?ver=1.8.2"></script>
@@ -45,7 +45,7 @@
    <input type="checkbox" id="menu-mobile-icone"></input>
    <label for="menu-mobile-icone" class="action-menu-mobile"></label>
    <!-- Bouton ouvrir/fermer menu en version mobile -->
- 
+
    <ul class="menu-principal">
    		<!-- le contenu de votre menu -->
    </ul>
@@ -66,7 +66,7 @@
 <label for="mon_sous_menu-1" class="action-mm-sous-menu"></label>
 ```
 
-### Exemples 
+### Exemples
 
 * Elément simple positionné à gauche.
 
@@ -88,14 +88,14 @@
 
 ```
 <li class="lien-menu-principal right">
-	
+
 	<!-- nom du menu -->
 	<a class="lmp-a" href="#">item 1</a>
-	
+
 	<!-- bouton (+/-) pour ouvrir/fermer le sous menu en version mobile -->
    <input type="checkbox" id="nouvellesecritures" class="mm-action-sous-menu"></input>
    <label for="nouvellesecritures" class="action-mm-sous-menu"></label>
-   
+
    <!-- sous menu -->
    <ul class="lmp-sous-menu">
    		<li class="sous-menu-li"><a class="sous-menu-a" href="#">sub item 1</a></li>
