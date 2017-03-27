@@ -1,9 +1,5 @@
 # META NAV
 
-## Demo
-[https://muporash.github.io/meta_nav/]
-(https://muporash.github.io/meta_nav/)
-
 ## Dependencies
 
 - fontawesome.io
